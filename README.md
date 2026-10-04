@@ -33,7 +33,7 @@ I enjoy creating user-friendly interfaces and finding solutions to different tas
 
 https://almaty.hh.kz/resume/4e5a83b5ff0faaf4f40039ed1f416b4e79764c
 
-## ⚡ Fun fact: 
+## ⚡ Fun fact 
 
 ✂️ Swapped scissors for a keyboard, but my love for details stayed)
 
