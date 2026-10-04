@@ -5,8 +5,8 @@
 
 ## About me
 
-Сейчас развиваюсь в веб-разработке и продолжаю углублять JavaScript.
-Мне нравится создавать удобные интерфейсы и находить решения для разных задач.
+I’m currently developing my skills in web development and continuing to deepen my JavaScript knowledge. 
+I enjoy creating user-friendly interfaces and finding solutions to different tasks.
 
 ## 🛠 Technologies & Tools
 
@@ -27,7 +27,7 @@
 
 ## 🎯 Currently
 
-💼 Открыта к предложениям о работе и стажировке
+💼 Open to job and internship opportunities
 
 ## 📄 Resume
 
@@ -35,7 +35,7 @@ https://almaty.hh.kz/resume/4e5a83b5ff0faaf4f40039ed1f416b4e79764c
 
 ## ⚡ Fun fact: 
 
-✂️ Сменила ножницы на клавиатуру, но любовь к деталям осталась)
+✂️ Swapped scissors for a keyboard, but my love for details stayed)
 
 ## 📫 Contacts
 
